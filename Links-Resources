@@ -1,6 +1,9 @@
 Official Documentation :
 https://learn.microsoft.com/en-us/dotnet/csharp/
 
+C# in 100 Seconds :
+https://www.youtube.com/watch?v=ravLFzIguCM
+
 SDK (Software Development Kit) :
 https://dotnet.microsoft.com/download
 'sudo pacman -S dotnet-sdk' #install dotnet-sdk on arch linux
