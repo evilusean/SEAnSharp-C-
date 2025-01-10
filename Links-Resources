@@ -3,6 +3,9 @@ https://learn.microsoft.com/en-us/dotnet/csharp/
 
 SDK (Software Development Kit) :
 https://dotnet.microsoft.com/download
+'sudo pacman -S dotnet-sdk' #install dotnet-sdk on arch linux
+C# Dev Kit Extension #search this on VSCode Extension marketplace, after getting this and the SDK, should be able to develop on arch linux even though it's microsoft*ptuh*
+dotnet new console -n <My New Project> #used to create a new C# project
 
 After Learning C#, you can do webdev, backend, API's, and, also Unity(Game Dev) : https://www.youtube.com/watch?v=vFjXKOXdgGo
 
