@@ -3,6 +3,7 @@ https://docs.unity3d.com/hub/manual/InstallHub.html
 https://docs.unity3d.com/hub/manual/InstallHub.html#install-hub-linux
 https://itsfoss.com/install-unity-arch-linux/
 https://twarga.tech/installing-the-unity-game-engine-on-arch-linux
+'yay -S unityhub' #works for installing unityhub which can then download unity, create an ID, and sign in, 8gig download
 
 Free Game Art: 
 https://opengameart.org/
