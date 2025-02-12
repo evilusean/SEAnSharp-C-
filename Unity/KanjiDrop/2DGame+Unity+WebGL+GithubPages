@@ -1,5 +1,8 @@
 FutureProjectSean 2D Japanese Game(build in unity +use WebGL to host on Github pages) -
 Or use C# with Blazor/Maui for Web+Mobile
+C# / Unity is owned and maintained by '"them"' - I realllllly don't want to invest any amount of time into something '"they"' created - I might just build it from scratch using JS as a browser game
+  Save myself learning yet another language - and just build it in JS using either ThreeJS or Phaser.JS - just found another tutorial, easier to upload to github pages too, no WEBGL building : 
+  https://www.freecodecamp.org/news/how-to-build-a-simple-game-in-the-browser-with-phaser-3-and-typescript-bdc94719135/
 
 Steps to Create and Host a Unity WebGL Game on GitHub Pages:
 Create a 2D Game in Unity:
